@@ -2,10 +2,10 @@
 
 DDIA 读书分享会，会逐章进行分享，结合我在工业界分布式存储和数据库的一些经验，补充一些细节。每两周左右分享一次，欢迎加入，Schedule 在[这里](https://docs.qq.com/sheet/DWHFzdk5lUWx4UWJq)。我们有个对应的分布式&数据库讨论群，每次分享前会在群里通知。如想加入，可以加我的微信号：qtmuniao，简单自我介绍下，并注明：分布式系统群。
 
-读书会安排和往期录屏: https://docs.qq.com/sheet/DWHFzdk5lUWx4UWJq.
+读书会安排和往期录屏: [https://docs.qq.com/sheet/DWHFzdk5lUWx4UWJq](https://docs.qq.com/sheet/DWHFzdk5lUWx4UWJq)
 # 《DDIA 逐章精读》小册
 
-在理解英文原文的基础上，结合我的一些工作经验，进行一些相应扩展，并参考 [github 上 Vonng 的中文翻译版](https://github.com/Vonng/ddia)，对每一章用中文重新组织，作为每次分享的文字稿，在此集结为 gitbook 小册，希望可以对有需要的同学有所帮助，水平所限，难免疏漏，如发现有任何有误之处，欢迎提 issue 和 PR。
+在理解英文原文的基础上，结合我的一些工作经验，进行一些相应扩展，并参考 [github 上 Vonng 的中文翻译版](https://github.com/Vonng/ddia)，对每一章用中文重新组织，作为每次分享的文字稿，在此集结为 gitbook 小册，希望可以对有需要的同学有所帮助，水平所限，难免疏漏，如发现有任何有误之处，欢迎[提 issue](https://github.com/DistSysCorp/ddia/issues/new) 和 [PR](https://github.com/DistSysCorp/ddia/compare)。
 
 
 ## 目录
@@ -16,12 +16,12 @@ DDIA 读书分享会，会逐章进行分享，结合我在工业界分布式存
     * [可靠性（Reliability）](ch01.md#可靠性)
     * [可伸缩性（Scalability）](ch01.md#可伸缩性)
     * [可维护性（Maintainability）](ch01.md#可维护性)
-* [第二章：数据模型和查询语言](ch02.md) [[视频上：数据模型和查询语言](https://www.bilibili.com/video/BV19a411C7UN) | [视频下：图数据模型](https://www.bilibili.com/video/BV1BZ4y1r79M)]
+* [第二章：数据模型和查询语言](ch02.md) [[视频上](https://www.bilibili.com/video/BV19a411C7UN) | [视频下](https://www.bilibili.com/video/BV1BZ4y1r79M)]
     * [概要](ch02.md#概要)
     * [关系模型 vs 文档模型](ch02.md#关系模型与文档模型)
     * [数据查询语言](ch02.md#数据查询语言)
     * [Graph-Like 数据模型](ch02.md#图模型)
-* [第三章：存储与查询](ch03.md) [[视频上：LSM-Tree 和 B-Tree](https://www.bilibili.com/video/BV1mL411P72H/) | [视频下：TPAP和列存](https://www.bilibili.com/video/BV1bL411A7ga)]
+* [第三章：存储与查询](ch03.md) [[视频上](https://www.bilibili.com/video/BV1mL411P72H/) | [视频下](https://www.bilibili.com/video/BV1bL411A7ga)]
     * [驱动数据库的底层数据结构](ch03.md#驱动数据库的底层数据结构)
     * [事务型还是分析型](ch03.md#事务型还是分析型)
     * [列存](ch03.md#列存)
@@ -31,14 +31,18 @@ DDIA 读书分享会，会逐章进行分享，结合我在工业界分布式存
 
 ### 第二部分：分布式数据
 
-* [第五章：冗余(Replication)](ch05.md) [[视频上：单主模型](https://www.bilibili.com/video/BV1VR4y1K7eK) | [视频下：多主和无主](https://www.bilibili.com/video/BV1ou4116779)]
+* [第五章：冗余(Replication)](ch05.md) [[视频上](https://www.bilibili.com/video/BV1VR4y1K7eK) | [视频下](https://www.bilibili.com/video/BV1ou4116779)]
     * [领导者与跟随者](ch05.md#领导者与跟随者)
     * [复制滞后问题](ch05.md#复制滞后问题)
     * [多主模型](ch05.md#多主模型)
     * [无主模型](ch05.md#无主模型)
-* [第六章：分区(Partition)](ch06.md) [[视频上：分片方式和次级索引](https://www.bilibili.com/video/BV1tY4y157Np) | [视频下：均衡策略和请求路由](https://www.bilibili.com/video/BV1AA4y1f7Hi)]
+* [第六章：分区(Partition)](ch06.md) [[视频上](https://www.bilibili.com/video/BV1tY4y157Np) | [视频下](https://www.bilibili.com/video/BV1AA4y1f7Hi)]
     * [分片与复制](ch06.md#分片与复制)
     * [键值对集的分片](ch06.md#键值对集的分片)
     * [分片和次级索引](ch06.md#分片和次级索引)
     * [分片均衡（Rebalancing）](ch06.md#分片均衡)
     * [请求路由（Routing）](ch06.md#请求路由)
+
+# 关于我
+
+博客：木鸟杂记 [https://www.qtmuniao.com](https://www.qtmuniao.com)
