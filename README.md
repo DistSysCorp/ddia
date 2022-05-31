@@ -16,12 +16,12 @@ DDIA 读书分享会，会逐章进行分享，结合我在工业界分布式存
     * [可靠性（Reliability）](ch01.md#可靠性)
     * [可伸缩性（Scalability）](ch01.md#可伸缩性)
     * [可维护性（Maintainability）](ch01.md#可维护性)
-* [第二章：数据模型和查询语言](ch02.md) [[视频上](https://www.bilibili.com/video/BV19a411C7UN) | [视频下](https://www.bilibili.com/video/BV1BZ4y1r79M)]
+* [第二章：数据模型和查询语言](ch02.md) [[视频上](https://www.bilibili.com/video/BV19a411C7UN) [视频下](https://www.bilibili.com/video/BV1BZ4y1r79M)]
     * [概要](ch02.md#概要)
     * [关系模型 vs 文档模型](ch02.md#关系模型与文档模型)
     * [数据查询语言](ch02.md#数据查询语言)
     * [Graph-Like 数据模型](ch02.md#图模型)
-* [第三章：存储与查询](ch03.md) [[视频上](https://www.bilibili.com/video/BV1mL411P72H/) | [视频下](https://www.bilibili.com/video/BV1bL411A7ga)]
+* [第三章：存储与查询](ch03.md) [[视频上](https://www.bilibili.com/video/BV1mL411P72H/) [视频下](https://www.bilibili.com/video/BV1bL411A7ga)]
     * [驱动数据库的底层数据结构](ch03.md#驱动数据库的底层数据结构)
     * [事务型还是分析型](ch03.md#事务型还是分析型)
     * [列存](ch03.md#列存)
@@ -31,12 +31,12 @@ DDIA 读书分享会，会逐章进行分享，结合我在工业界分布式存
 
 ### 第二部分：分布式数据
 
-* [第五章：冗余(Replication)](ch05.md) [[视频上](https://www.bilibili.com/video/BV1VR4y1K7eK) | [视频下](https://www.bilibili.com/video/BV1ou4116779)]
+* [第五章：冗余(Replication)](ch05.md) [[视频上](https://www.bilibili.com/video/BV1VR4y1K7eK) [视频下](https://www.bilibili.com/video/BV1ou4116779)]
     * [领导者与跟随者](ch05.md#领导者与跟随者)
     * [复制滞后问题](ch05.md#复制滞后问题)
     * [多主模型](ch05.md#多主模型)
     * [无主模型](ch05.md#无主模型)
-* [第六章：分区(Partition)](ch06.md) [[视频上](https://www.bilibili.com/video/BV1tY4y157Np) | [视频下](https://www.bilibili.com/video/BV1AA4y1f7Hi)]
+* [第六章：分区(Partition)](ch06.md) [[视频上](https://www.bilibili.com/video/BV1tY4y157Np) [视频下](https://www.bilibili.com/video/BV1AA4y1f7Hi)]
     * [分片与复制](ch06.md#分片与复制)
     * [键值对集的分片](ch06.md#键值对集的分片)
     * [分片和次级索引](ch06.md#分片和次级索引)
