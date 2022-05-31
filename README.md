@@ -13,9 +13,9 @@ DDIA 读书分享会，会逐章进行分享，结合我在工业界分布式存
 
 * [第一章：可靠、可扩展、可维护](ch01.md) [[视频](https://www.bilibili.com/video/BV1bY411L7HA)]
     * [本书为什么以数据系统为主题](ch01.md#本书为什么以数据系统为主题)
-    * [可靠性（Reliability）](ch01.md#可靠性（Reliability）)
-    * [可伸缩性（Scalability）](ch01.md#可伸缩性（Scalability）)
-    * [可维护性（Maintainability）](ch01.md#可维护性（Maintainability）)
+    * [可靠性（Reliability）](ch01.md#可靠性)
+    * [可伸缩性（Scalability）](ch01.md#可伸缩性)
+    * [可维护性（Maintainability）](ch01.md#可维护性)
 * [第二章：数据模型和查询语言](ch02.md) [[视频上：数据模型和查询语言](https://www.bilibili.com/video/BV19a411C7UN) | [视频下：图数据模型](https://www.bilibili.com/video/BV1BZ4y1r79M)]
     * [概要](ch02.md#概要)
     * [关系模型 vs 文档模型](ch02.md#关系模型与文档模型)
@@ -40,5 +40,5 @@ DDIA 读书分享会，会逐章进行分享，结合我在工业界分布式存
     * [分片与复制](ch06.md#分片与复制)
     * [键值对集的分片](ch06.md#键值对集的分片)
     * [分片和次级索引](ch06.md#分片和次级索引)
-    * [分片均衡（Rebalancing）](ch06.md#分片均衡（rebalancing）)
+    * [分片均衡（Rebalancing）](ch06.md#分片均衡)
     * [请求路由（Routing）](ch06.md#请求路由)
