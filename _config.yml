@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+title: DDIA 逐章精读
+description: Designing Data-Intensive Applications, 设计数据密集型应用，结合我的一些工程实践,用中文对书籍内容进行重新整理,并补充一些细节,逐章进行分享(视频在 B 站和 YouTube ),希望能够对大家有所帮助. 
+google_analytics: UA-101943025-1
