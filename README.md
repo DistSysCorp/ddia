@@ -5,10 +5,11 @@ DDIA 读书分享会，会逐章进行分享，结合我在工业界分布式存
 读书会安排和往期录屏: [https://docs.qq.com/sheet/DWHFzdk5lUWx4UWJq](https://docs.qq.com/sheet/DWHFzdk5lUWx4UWJq)
 # 《DDIA 逐章精读》小册
 
-在理解英文原文的基础上，结合我的一些工作经验，进行一些相应扩展，并参考 [github 上 Vonng 的中文翻译版](https://github.com/Vonng/ddia)，对每一章用中文重新组织，作为每次分享的文字稿，在此集结为 gitbook 小册，希望可以对有需要的同学有所帮助，水平所限，难免疏漏，如发现有任何有误之处，欢迎[提 issue](https://github.com/DistSysCorp/ddia/issues/new) 和 [PR](https://github.com/DistSysCorp/ddia/compare)。
-
+在理解英文原文的基础上，结合我的一些工作经验，进行一些相应扩展，并参考 [github 上 Vonng 的中文翻译版](https://github.com/Vonng/ddia)，对每一章用中文重新组织，作为每次分享的文字稿，在此集结为一本开源小册，希望可以对有需要的同学有所帮助，水平所限，难免疏漏，如发现有任何有误之处，欢迎[提 issue](https://github.com/DistSysCorp/ddia/issues/new) 和 [PR](https://github.com/DistSysCorp/ddia/compare)。
 
 ## 目录
+
+### [序](preface.md)
 ### 第一部分：数据系统基础
 
 * [第一章：可靠、可扩展、可维护](ch01.md) [[视频](https://www.bilibili.com/video/BV1bY411L7HA)]
