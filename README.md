@@ -43,6 +43,10 @@ DDIA 读书分享会，会逐章进行分享，结合我在工业界分布式存
     * [分片和次级索引](ch06.md#分片和次级索引)
     * [分片均衡](ch06.md#分片均衡)
     * [请求路由](ch06.md#请求路由)
+* [第七章：分区](ch07.md) [[视频上](https://www.bilibili.com/video/BV1d94y117pW) [视频中](https://www.bilibili.com/video/BV1u3411w765) [视频下](https://www.bilibili.com/video/BV1Qr4y1M7Zm)]
+    * [棘手的概念](ch07.md#棘手的概念)
+    * [几种弱隔离级别](ch07.md#几种弱隔离级别)
+    * [可串行化](ch07.md#可串行化)
 
 # 关于我
 
