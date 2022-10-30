@@ -47,8 +47,11 @@ DDIA 读书分享会，会逐章进行分享，结合我在工业界分布式存
     * [棘手的概念](ch07.md#棘手的概念)
     * [几种弱隔离级别](ch07.md#几种弱隔离级别)
     * [可串行化](ch07.md#可串行化)
-* 第八章：分布是系统中的麻烦事 [[视频上](https://www.bilibili.com/video/BV1Ad4y1D7Yy) [视频中](https://www.bilibili.com/video/BV1114y1L7wU)]
-    * 正文会在分享完后上传
+* [第八章：分布式系统中的麻烦事](ch08.md) [[视频上](https://www.bilibili.com/video/BV1Ad4y1D7Yy) [视频中](https://www.bilibili.com/video/BV1114y1L7wU) [视频下](https://www.bilibili.com/video/BV1uG411A7GK)]
+    * [故障和部分失败](ch08.md#故障和部分失败)
+    * [不可靠的网络](ch08.md#不可靠的网络)
+    * [不可靠的时钟](ch08.md#不可靠的时钟)
+    * [知识、真相和谎言](ch08.md#知识、真相和谎言)
 
 
 # 关于我

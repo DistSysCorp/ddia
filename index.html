@@ -23,7 +23,6 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
       gtag('config', 'G-MMJ5PY11XY');
     </script>
 </head>
@@ -36,11 +35,33 @@
       loadSidebar: true,
       subMaxLevel: 2,
       themeColor: '#77AAC2',
-      auto2top: true
+      auto2top: true,
+      pagination: {
+            previousText: "上一章",
+            nextText: "下一章",
+            crossChapter: true,
+            crossChapterText: true,
+      },
+      plugins: [
+        function pageFooter(hook, vm) {
+          var footer = [
+            '<footer style="text-align: center;">',
+            '<span><a href="https://www.qtmuniao.com/">作者：木鸟杂记</a>&nbsp; | &nbsp; </span>',
+            '<span><a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5NTcxNzY2OQ==&action=getalbum&album_id=2164896217070206977&scene=126&devicetype=iOS15.4&version=18001d33&lang=zh_CN&nettype=WIFI&ascene=59&session_us=gh_80636260f9f9&fontScale=106&wx_header=3">公众号</a>&nbsp; | &nbsp; </span>',
+            '<span><a href="https://distsys.cn/">分布式论坛</a></span>',
+            '</footer>',
+          ].join('');
+
+          hook.afterEach(function (html) {
+            return html + footer;
+          });
+        },
+      ],
     }
   </script>
 
   <script src="js/docsify.min.js"></script>
   <script src="js/search.min.js"></script>
+  <script src="js/docsify-pagination.min.js"></script>
 </body>
 </html>
