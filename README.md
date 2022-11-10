@@ -56,7 +56,7 @@ DDIA 读书分享会，会逐章进行分享，结合我在工业界分布式存
 
 # 关于我
 
-我是青藤木鸟，一个喜欢摄影的分布系统程序员，现主要做数据库方向。可以通过[b站](https://space.bilibili.com/30933812) ，[知乎](https://www.zhihu.com/people/qtmuniao) , 微信号(qtmuniao) 找到我。更多分布式系统文章欢迎关注我的公众号——木鸟杂记。同名博客：木鸟杂记 [https://www.qtmuniao.com](https://www.qtmuniao.com)
+我是青藤木鸟，一个喜欢摄影的分布系统程序员，现主要做数据库方向。可以通过[领英](https://www.linkedin.com/in/qtmuniao/), [b站](https://space.bilibili.com/30933812) ，[知乎](https://www.zhihu.com/people/qtmuniao) , 微信号(qtmuniao) 找到我。更多分布式系统文章欢迎关注我的公众号——木鸟杂记。同名博客：木鸟杂记 [https://www.qtmuniao.com](https://www.qtmuniao.com)
 
 对于 Martin Kleppmann 博士的[DDIA](https://dataintensive.net/)，每章大概我自己要读两遍英文版，然后自己翻译一遍，再理顺一遍词句，再找相关资料补充一些背景，最后再讲一遍，因此每章最少都得花十几个小时甚至几十个小时（比如事务那一章）。创作不易，如果感觉感觉对你有帮助的话，不妨分享给更多的人~ 这将对我是莫大的鼓励和支持。当然，也可以通过这个页面请我[吃顿饭](https://dun.mianbaoduo.com/@qtmuniao) ，顺便留个言。
 
