@@ -52,11 +52,11 @@ DDIA 读书分享会，会逐章进行分享，结合我在工业界分布式存
     * [不可靠的网络](ch08.md#不可靠的网络)
     * [不可靠的时钟](ch08.md#不可靠的时钟)
     * [知识、真相和谎言](ch08.md#知识、真相和谎言)
-* [第九章：一致性和共识协议](ch09.md) [b站([上](https://www.bilibili.com/video/BV1Ad4y1D7Yy) [中](https://www.bilibili.com/video/BV1114y1L7wU) [下](https://www.bilibili.com/video/BV1uG411A7GK)) Youtube ([上](https://www.youtube.com/watch?v=-q-yY_0aCsg&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=13) [中](https://www.youtube.com/watch?v=mk-QfuBV_NQ&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=14) [下](https://www.youtube.com/watch?v=xhk-X-rkLU4&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=15))]
-    * [故障和部分失败](ch08.md#故障和部分失败)
-    * [不可靠的网络](ch08.md#不可靠的网络)
-    * [不可靠的时钟](ch08.md#不可靠的时钟)
-    * [知识、真相和谎言](ch08.md#知识、真相和谎言)
+* [第九章：一致性和共识协议](ch09.md) [b站([上](https://www.bilibili.com/video/BV1eK411o73Q) [中](https://www.bilibili.com/video/BV1Y14y1P7xG) [下](https://www.bilibili.com/video/BV1r3411S7J2)) Youtube ([上](https://www.youtube.com/watch?v=Hq2gWib5n_I&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=17) [中](https://www.youtube.com/watch?v=Nds2xpnyS8A&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=18) [下](https://www.youtube.com/watch?v=IHVrL6M2SME&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=19))]
+    * [一致性保证](ch09.md#一致性保证)
+    * [线性一致性](ch09.md#线性一致性)
+    * [顺序保证](ch09.md#顺序保证)
+    * [分布式事务和共识协议](ch09.md#分布式事务和共识协议)
 
 
 # 关于我
