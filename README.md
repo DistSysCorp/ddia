@@ -1,8 +1,3 @@
-# DDIA 读书会
-
-DDIA 读书分享会，会逐章进行分享，结合我在工业界分布式存储和数据库的一些经验，补充一些细节。每两周左右分享一次，欢迎加入，Schedule 在[这里](https://docs.qq.com/sheet/DWHFzdk5lUWx4UWJq)。我们有个对应的分布式&数据库讨论群，每次分享前会在群里通知。如想加入，可以加我的微信号：qtmuniao，简单自我介绍下，并注明：分布式系统群。另外，我的公众号：“木鸟杂记”，有更多的分布式系统、存储和数据库相关的文章，欢迎关注。
-
-读书会安排和往期录屏: [https://docs.qq.com/sheet/DWHFzdk5lUWx4UWJq](https://docs.qq.com/sheet/DWHFzdk5lUWx4UWJq)
 # 《DDIA 逐章精读》小册
 
 在理解英文原文的基础上，结合我的一些工作经验，进行一些相应扩展，并参考 [github 上 Vonng 的中文翻译版](https://github.com/Vonng/ddia)，对每一章用中文重新组织，作为每次分享的文字稿，在此集结为一本开源小册，希望可以对有需要的同学有所帮助，水平所限，难免疏漏，如发现有任何有误之处，欢迎[提 issue](https://github.com/DistSysCorp/ddia/issues/new) 和 [PR](https://github.com/DistSysCorp/ddia/compare)。
@@ -58,6 +53,11 @@ DDIA 读书分享会，会逐章进行分享，结合我在工业界分布式存
     * [顺序保证](ch09.md#顺序保证)
     * [分布式事务和共识协议](ch09.md#分布式事务和共识协议)
 
+# DDIA 读书会
+
+DDIA 读书分享会，会逐章进行分享，结合我在工业界分布式存储和数据库的一些经验，补充一些细节。每两周左右分享一次，欢迎加入，Schedule 在[这里](https://docs.qq.com/sheet/DWHFzdk5lUWx4UWJq)。我们有个对应的分布式&数据库讨论群，每次分享前会在群里通知。如想加入，可以加我的微信号：qtmuniao，简单自我介绍下，并注明：分布式系统群。另外，我的公众号：“木鸟杂记”，有更多的分布式系统、存储和数据库相关的文章，欢迎关注。
+
+读书会安排和往期录屏: [https://docs.qq.com/sheet/DWHFzdk5lUWx4UWJq](https://docs.qq.com/sheet/DWHFzdk5lUWx4UWJq)
 
 # 关于我
 
