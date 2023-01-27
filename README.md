@@ -7,7 +7,7 @@
 ### [序](preface.md)
 ### 第一部分：数据系统基础
 
-* [第一章：可靠、可扩展、可维护](ch01.md) [[b站](https://www.bilibili.com/video/BV1bY411L7HA) [Youtube](https://www.youtube.com/watch?v=INYs9vFTtro&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=1)]
+* [第一章：可靠、可扩展、可维护](ch01.md) [[b站](https://www.bilibili.com/video/BV1bY411L7HA) [Youtube](https://www.youtube.com/watch?v=geVsm3YGF4A&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=1)]
     * [本书为什么以数据系统为主题](ch01.md#本书为什么以数据系统为主题)
     * [可靠性](ch01.md#可靠性)
     * [可伸缩性](ch01.md#可伸缩性)
