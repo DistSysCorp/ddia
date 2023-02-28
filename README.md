@@ -64,6 +64,6 @@ DDIA 读书分享会，会逐章进行分享，结合我在工业界分布式存
 
 我是青藤木鸟，一个喜欢摄影的分布系统程序员，现主要做数据库方向。可以通过[领英](https://www.linkedin.com/in/qtmuniao/)，[b 站](https://space.bilibili.com/30933812)，[知乎](https://www.zhihu.com/people/qtmuniao) , 微信号 (qtmuniao) 找到我。更多分布式系统文章欢迎关注我的公众号——[木鸟杂记](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5NTcxNzY2OQ==&action=getalbum&album_id=2164896217070206977&scene=126&devicetype=iOS15.4&version=18001d33&lang=zh_CN&nettype=WIFI&ascene=59&session_us=gh_80636260f9f9&fontScale=106&wx_header=3)。同名博客：木鸟杂记 [https://www.qtmuniao.com](https://www.qtmuniao.com)
 
-对于 Martin Kleppmann 博士的[DDIA](https://dataintensive.net/)，每章大概我自己要读两遍英文版，然后自己翻译一遍，再理顺一遍词句，再找相关资料补充一些背景，最后再讲一遍，因此每章最少都得花十几个小时甚至几十个小时（比如事务那一章）。创作不易，如果感觉感觉对你有帮助的话，不妨分享给更多的人~ 这将对我是莫大的鼓励和支持。当然，也可以通过这个页面请我[吃顿饭](https://afdian.net/a/qtmuniao) ，顺便留个言。
+对于 Martin Kleppmann 博士的[DDIA](https://dataintensive.net/)，每章大概我自己要读两遍英文版，然后自己翻译一遍，再理顺一遍词句，再找相关资料补充一些背景，最后再讲一遍，因此每章最少都得花十几个小时甚至几十个小时（比如事务那一章）。创作不易，如果感觉感觉对你有帮助的话，不妨分享给更多的人~ 这将对我是莫大的鼓励和支持。当然，也可以订阅我的技术专栏[系统日知录](https://xiaobot.net/p/system-thinking) ，顺便留个言。
 
 最后，如果你想对某些章节讨论的话，欢迎来我搭的一个专门的分布式系统论坛：https://distsys.cn/ 。感谢阅读，感谢关注。
