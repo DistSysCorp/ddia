@@ -62,6 +62,24 @@ DDIA 读书分享会，会逐章进行分享，结合我在工业界分布式存
 
 读书会安排和往期录屏：[https://docs.qq.com/sheet/DWHFzdk5lUWx4UWJq](https://docs.qq.com/sheet/DWHFzdk5lUWx4UWJq)
 
+# DDIA 学习会
+
+由于有很多同学在读 DDIA 还是有很多问题，自己读也不容易坚持，因此我依托[小报童](https://xiaobot.net/p/large-scale-sys) 平台建立了一个针对本书的学习和答疑的学习会。为了保证高质量的回答和督促大家学习，采取一次性付费**入会**（就是订阅小报童专栏：《[DDIA学习会](https://xiaobot.net/p/large-scale-sys)》）的形式，现价 64，之后每满一百人涨价 32。
+
+入会后：
+1. 在专栏置顶文章下发一个非常简单的自我介绍评论。
+2. 加我微信拉你入学习会的群，进行答疑、讨论和信息发布。
+
+如果有任何疑问和建议，订购前可以加我微信：qtmuniao。
+
+大致形式如下：
+1. 每两周过一章，发一篇以章节标题+时间段的空白文章。
+2. **留言答疑**：大家在上述文章下面打卡和提问。
+3. **文字答疑**：微信群，每天集中回复。
+4. **视频答疑**：Zoom，每周一次，每次一小时。
+5. **答疑汇总**：将大家的问题和我的回答整理处理，以文章形式发在小报童专栏中；答疑录屏会在发到 b 站上，供大家回看。
+
+
 # 关于我
 
 我是青藤木鸟，一个喜欢摄影的分布系统程序员，现主要做数据库方向。可以通过[领英](https://www.linkedin.com/in/qtmuniao/)，[b 站](https://space.bilibili.com/30933812)，[知乎](https://www.zhihu.com/people/qtmuniao) , 微信号 (qtmuniao) 找到我。更多分布式系统文章欢迎关注我的公众号——[木鸟杂记](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5NTcxNzY2OQ==&action=getalbum&album_id=2164896217070206977&scene=126&devicetype=iOS15.4&version=18001d33&lang=zh_CN&nettype=WIFI&ascene=59&session_us=gh_80636260f9f9&fontScale=106&wx_header=3)。同名博客：木鸟杂记 [https://www.qtmuniao.com](https://www.qtmuniao.com)
