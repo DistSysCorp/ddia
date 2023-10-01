@@ -55,6 +55,12 @@
   - [线性一致性](ch09.md#线性一致性)
   - [顺序保证](ch09.md#顺序保证)
   - [分布式事务和共识协议](ch09.md#分布式事务和共识协议)
+### 第三部分：衍生数据
+
+- [第十章：批处理](ch10.md) [b 站 ([上](https://www.bilibili.com/video/BV1bG4y1U7pV) [中](https://www.bilibili.com/video/BV1fY4y1C7Rm) [下](https://www.bilibili.com/video/BV1pp4y177pG)) Youtube ([上](https://www.youtube.com/watch?v=hOciQEiABN8&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=20) [中](https://www.youtube.com/watch?v=kszxdmOdf2g&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=21) [下](https://www.youtube.com/watch?v=q5r1TD_8oAs&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=22))] 
+  - [使用 Unix 工具进行批处理](ch10.md#使用Unix工具进行批处理)
+  - [MapReduce 和分布式文件系统](ch10.md#MapReduce和分布式文件系统)
+  - [MapReduce 之外](ch10.md#MapReduce之外)
 
 # DDIA 读书会
 
