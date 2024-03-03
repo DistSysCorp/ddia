@@ -58,10 +58,15 @@
 
 ### 第三部分：衍生数据
 
-- [第十章：批处理](ch10.md) [b 站 ([上](https://www.bilibili.com/video/BV1bG4y1U7pV) [中](https://www.bilibili.com/video/BV1fY4y1C7Rm) [下](https://www.bilibili.com/video/BV1pp4y177pG)) Youtube ([上](https://www.youtube.com/watch?v=hOciQEiABN8&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=20) [中](https://www.youtube.com/watch?v=kszxdmOdf2g&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=21) [下](https://www.youtube.com/watch?v=q5r1TD_8oAs&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=22))] 
+- [第十章：批处理](ch10.md) [b 站 ([上](https://www.bilibili.com/video/BV1bG4y1U7pV) [中](https://www.bilibili.com/video/BV1fY4y1C7Rm) [下](https://www.bilibili.com/video/BV1pp4y177pG) [终](https://www.bilibili.com/video/BV1m94y1H74M)) Youtube ([上](https://www.youtube.com/watch?v=hOciQEiABN8&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=20) [中](https://www.youtube.com/watch?v=kszxdmOdf2g&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=21) [下](https://www.youtube.com/watch?v=q5r1TD_8oAs&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=22) [终](https://www.youtube.com/watch?v=vJlHRc1QRts&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=23))] 
   - [使用 Unix 工具进行批处理](ch10.md#使用Unix工具进行批处理)
   - [MapReduce 和分布式文件系统](ch10.md#MapReduce和分布式文件系统)
   - [MapReduce 之外](ch10.md#MapReduce之外)
+- [第十一章：流处理](ch11.md) [b站（[一](https://www.bilibili.com/video/BV13e41117wW) [二](https://www.bilibili.com/video/BV1Ge411n73W) [三](https://www.bilibili.com/video/BV1Ai4y1p7YL) [四](https://www.bilibili.com/video/BV1dv421y7wo) [五](https://www.bilibili.com/video/BV1G1421f7Nt) [六](https://www.bilibili.com/video/BV1FZ42117mL)）YouTube（[一](https://www.youtube.com/watch?v=nO0-JzStG6c&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=24) [二](https://www.youtube.com/watch?v=GrT6pMEWwNE&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=25) [三](https://www.youtube.com/watch?v=U2220JtjMK0&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=26) [四](https://www.youtube.com/watch?v=JwL2yEF66Ok&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=27) [五](https://www.youtube.com/watch?v=WZmm7X-ewJE&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=28) [六](https://www.youtube.com/watch?v=YH18Dx-Z2x0&list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g&index=29)）]
+  - [事件流的传输](ch11.md#事件流的传输)
+  - [数据库和流](ch11.md#数据库和流)
+  - [处理流](ch11.md#处理流)
+  - [小结](ch11.md#小结)
 
 # DDIA 读书会
 
