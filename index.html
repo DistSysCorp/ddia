@@ -16,15 +16,34 @@
       var s = document.getElementsByTagName("script")[0];
       s.parentNode.insertBefore(hm, s);
     })();
-    </script>
+  </script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-MMJ5PY11XY"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-MMJ5PY11XY');
-    </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-MMJ5PY11XY"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-MMJ5PY11XY');
+  </script>
+
+  <!-- GitTalk评论 -->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script src="https://unpkg.com/docsify-gitalk@1.0.0/dist/docsify-gitalk.min.js"></script>
+  <script>
+    window.$docsify = {
+      // gitalk comments
+      gitalk: {
+        clientID: 'Ov23liYKNMwF7oVGo5AM',
+        clientSecret: 'bffc366adf82f40bc8e0fded441d7a7f0b3e09a9',
+        repo: 'ddia-comment',
+        owner: 'qtmuniao',
+        admin: ['qtmuniao']
+      }
+    }
+  </script>
+
 
 </head>
 <body>
