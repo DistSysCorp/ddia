@@ -26,23 +26,8 @@
     gtag('config', 'G-MMJ5PY11XY');
   </script>
 
-  <!-- GitTalk评论 -->
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
-  <script src="https://unpkg.com/docsify-gitalk@1.0.0/dist/docsify-gitalk.min.js"></script>
-  <script>
-    window.$docsify = {
-      // gitalk comments
-      gitalk: {
-        clientID: 'Ov23liYKNMwF7oVGo5AM',
-        clientSecret: 'bffc366adf82f40bc8e0fded441d7a7f0b3e09a9',
-        repo: 'ddia-comment',
-        owner: 'qtmuniao',
-        admin: ['qtmuniao']
-      }
-    }
-  </script>
+  <link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
+  
 
 
 </head>
@@ -80,6 +65,21 @@
             return html + footer;
           });
         },
+        function (hook, vm) {
+          hook.mounted(function() {
+            var div = Docsify.dom.create('div')
+            div.id = 'gitalk-container'
+            var main = Docsify.dom.getNode('#main')
+            div.style = `width: ${main.clientWidth}px; margin: 0 auto 20px;`
+            Docsify.dom.appendTo(Docsify.dom.find('.content'), div)
+          })
+
+          hook.doneEach(function() {
+            var el = document.getElementById('gitalk-container')
+            while(el.hasChildNodes()) el.removeChild(el.firstChild)
+            gitalk.render('gitalk-container')
+          })
+        }
       ],
     }
   </script>
@@ -87,5 +87,18 @@
   <script src="js/docsify.min.js"></script>
   <script src="js/search.min.js"></script>
   <script src="js/docsify-pagination.min.js"></script>
+
+  <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script> 
+  <script src="https://cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  <script>
+    const gitalk = new Gitalk({
+      clientID: 'Ov23liYKNMwF7oVGo5AM',
+      clientSecret: 'bffc366adf82f40bc8e0fded441d7a7f0b3e09a9',
+      repo: 'ddia',
+      owner: 'songpengwei',
+      admin: ['songpengwei'],
+      title: location.href,
+    })
+  </script>
 </body>
 </html>
