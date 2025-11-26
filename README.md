@@ -2,7 +2,7 @@
 
 DDIA 一本高度纲要性的书，因此大多数程序员只闻其名，但真的一读总感觉像空中楼阁一般，不得实感。我工作以来的的方向定位是“大规模数据系统”，既做过云上的海量存储——对象存储、也做过经典 DBMS——图数据库、也做过大规模的数据处理。因此对书中说的各个领域都有所涉猎，为了让大家能更好的理解这本好书，结合我多年的实践经验，做一些扩展，通过例子和比喻帮大家弥合理论到实感的鸿沟。
 
-在理解英文原文的基础上，对每一章用中文重新组织（每个字纯手打），作为每次分享的文字稿，在此集结为一本开源小册，并附上每章分享的**录屏视频**（[b 站](https://space.bilibili.com/30933812/channel/collectiondetail?sid=240551), [Youtube](https://www.youtube.com/playlist?list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g)），希望可以对有需要的同学有所帮助，水平所限，难免疏漏，如发现有任何有误之处，欢迎[提 issue](https://github.com/DistSysCorp/ddia/issues/new) 和 [PR](https://github.com/DistSysCorp/ddia/compare)。
+在理解英文原文的基础上，对每一章用中文重新组织，作为每次分享的文字稿，在此集结为一本开源小册，并附上每章分享的**录屏视频**（[b 站](https://space.bilibili.com/30933812/channel/collectiondetail?sid=240551), [Youtube](https://www.youtube.com/playlist?list=PLSISRu2b2N54LGT3Pyef70ae8m0tAAo6g)），希望可以对有需要的同学有所帮助，水平所限，难免疏漏，如发现有任何有误之处，欢迎[提 issue](https://github.com/DistSysCorp/ddia/issues/new) 和 [PR](https://github.com/DistSysCorp/ddia/compare)。
 
 这个小册的电子版（PDF, EPUB）在[这里](https://mbd.pub/o/bread/ZJaXlZdt)，前两章小样可以在这里取（[PDF](https://github.com/DistSysCorp/ddia/blob/main/ddia-sample.pdf)，[EPUB](https://github.com/DistSysCorp/ddia/blob/main/ddia-sample.epub)）。
 
